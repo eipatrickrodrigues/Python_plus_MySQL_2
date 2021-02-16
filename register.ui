@@ -132,7 +132,7 @@
            </font>
           </property>
           <property name="text">
-           <string>Favor preencher todos os campos.</string>
+           <string/>
           </property>
          </widget>
         </widget>
