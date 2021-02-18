@@ -1,2 +1,1 @@
-# Python_Data
-Aprendendo análise de dados com Python
+# 1° Projeto autoral em Puthon + MySQL
