@@ -1,1 +1,1 @@
-# 1° Projeto autoral em Puthon + MySQL
+# 1° Projeto autoral em Python + MySQL
